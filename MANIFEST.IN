@@ -1,0 +1,4 @@
+include komizyryanparser/analyzer/bad_analyses.txt
+include komizyryanparser/analyzer/paradigms.txt
+include komizyryanparser/analyzer/lexemes.txt
+include komizyryanparser/analyzer/lex_rules.txt
